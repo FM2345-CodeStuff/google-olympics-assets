@@ -4,6 +4,6 @@ I was bored and decided to archive an Google Olympics page, then i wanted to get
 # What this repository contains
 - List (sorted by program) *(sorted list.txt)*
 - Sort program *(sorter.sb3)*
-- A webpage containing  the links *(index.html)*
+- A webpage containing  the links *(https://fm2345-codestuff.github.io/google-olympics-assets/)*
 
 If the files get deleted for whatever reason, i'll archive them.
